@@ -12,7 +12,7 @@
 $ npx expo start
 ```
 
-6. open expo in yout device scen the QR code
+6. open expo in your device scen the QR code
 
 ## Contributing
 
